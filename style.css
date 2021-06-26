@@ -368,6 +368,11 @@ nav.show div.icon-close {
   margin-bottom: 0.75rem;
 }
 
+.cards i:hover {
+  transform: scale(1.3);
+  transition: 0.2s;
+}
+
 /*====  TESTIMONIALS ============================ */
 #testimonials {
   background: white;
@@ -618,7 +623,6 @@ footer .social a:hover {
     padding-left: 3rem;
     padding-right: 3rem;
   }
-
   /* testimonials*/
   #testimonials .container {
     margin-left: auto;
